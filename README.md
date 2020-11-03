@@ -1,2 +1,2 @@
 # rainbow-local
-local about rainbow
+local about rainbow in the key of c major
